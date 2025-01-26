@@ -1,0 +1,109 @@
+{
+  "name": "Natural Selection Servers",
+  "websiteURL": "https://naturalselection.community",
+  "discordURL": "https://discord.gg/NSCommunity",
+  "logoURL": "https://example.com/natural-selection-logo.png",
+  "bannerURL": "https://example.com/natural-selection-banner.png",
+  "servers": [
+    {
+      "server": "^|TwoTeamSquad|^[NS|Evobot|EU]",
+      "logoURL": "https://example.com/logos/twoteamsquad.png",
+      "bannerURL": "https://example.com/banners/twoteamsquad.png",
+      "description": "A popular EU server running Evobot. Features fast gameplay and consistent map rotation.",
+      "steamConnect": "Click to join!",
+      "ip": "195.191.222.137:27015",
+      "map": "ns_hera",
+      "activity": "Active server with occasional events. Current players: 1/32."
+    },
+    {
+      "server": "naturalselection.es - pubs - bots_enabled",
+      "logoURL": "https://example.com/logos/naturalselectiones.png",
+      "bannerURL": "https://example.com/banners/naturalselectiones.png",
+      "description": "Spanish community server with bots enabled for practice and fun.",
+      "steamConnect": "Click to join!",
+      "ip": "82.165.10.244:27015",
+      "map": "ns_veil",
+      "activity": "Quiet most of the time. Current players: 0/32."
+    },
+    {
+      "server": "LINUX - ATMSAT II",
+      "logoURL": "https://example.com/logos/atmsat.png",
+      "bannerURL": "https://example.com/banners/atmsat.png",
+      "description": "Linux-based server with reliable performance and map diversity.",
+      "steamConnect": "Click to join!",
+      "ip": "136.248.103.80:27018",
+      "map": "ns_eclipse",
+      "activity": "Quiet most of the time. Current players: 0/32."
+    },
+    {
+      "server": "NS2-Fr.com - <NS~FC> Reborn [CTG|14:53|NoRound] V12",
+      "logoURL": "https://example.com/logos/ns2fr.png",
+      "bannerURL": "https://example.com/banners/ns2fr.png",
+      "description": "French NS server with regular updates and events.",
+      "steamConnect": "Click to join!",
+      "ip": "82.64.74.234:27025",
+      "map": "co_mvm_dust2",
+      "activity": "Usually quiet. Current players: 0/32."
+    },
+    {
+      "server": "NS2-Fr.com - <NS~FC> Reborn [CO|12:13|NoRound] V12",
+      "logoURL": "https://example.com/logos/ns2fr2.png",
+      "bannerURL": "https://example.com/banners/ns2fr2.png",
+      "description": "Another French NS server for competitive players.",
+      "steamConnect": "Click to join!",
+      "ip": "82.64.74.234:27027",
+      "map": "co_blackmesa_r5a",
+      "activity": "Quiet most of the time. Current players: 0/32."
+    },
+    {
+      "server": "^|TwoTeamSquad|^[CO|Evobot|EU]",
+      "logoURL": "https://example.com/logos/twoteamsquad_co.png",
+      "bannerURL": "https://example.com/banners/twoteamsquad_co.png",
+      "description": "CO game mode server by TwoTeamSquad with European location.",
+      "steamConnect": "Click to join!",
+      "ip": "195.191.222.137:27016",
+      "map": "co_niveus",
+      "activity": "Quiet most of the time. Current players: 0/20."
+    },
+    {
+      "server": "[APG] - NS 3.3b [Stats|FastDL]",
+      "logoURL": "https://example.com/logos/apg.png",
+      "bannerURL": "https://example.com/banners/apg.png",
+      "description": "Community server with stats tracking and fast downloads enabled.",
+      "steamConnect": "Click to join!",
+      "ip": "188.165.244.220:27080",
+      "map": "ns_eon",
+      "activity": "Quiet most of the time. Current players: 0/20."
+    },
+    {
+      "server": "SPUTNIK - 1 | Competitive HLTV Autorecord - London UK",
+      "logoURL": "https://example.com/logos/sputnik1.png",
+      "bannerURL": "https://example.com/banners/sputnik1.png",
+      "description": "Competitive server with HLTV recording enabled.",
+      "steamConnect": "Click to join!",
+      "ip": "173.199.79.107:27984",
+      "map": "ns_veil",
+      "activity": "Quiet most of the time. Current players: 0/24."
+    },
+    {
+      "server": "LinuxGSM",
+      "logoURL": "https://example.com/logos/linuxgsm.png",
+      "bannerURL": "https://example.com/banners/linuxgsm.png",
+      "description": "Small server focused on CO maps.",
+      "steamConnect": "Click to join!",
+      "ip": "135.148.59.26:27024",
+      "map": "co_pulse",
+      "activity": "Quiet most of the time. Current players: 0/16."
+    },
+    {
+      "server": "GoldSrcSaturdays.com/discord - Natural Selection",
+      "logoURL": "https://example.com/logos/goldsrc.png",
+      "bannerURL": "https://example.com/banners/goldsrc.png",
+      "description": "A community-focused server celebrating GoldSrc Saturdays.",
+      "steamConnect": "Click to join!",
+      "ip": "92.119.129.204:27034",
+      "map": "ns_wubbit_b6",
+      "activity": "Quiet most of the time. Current players: 0/32."
+    }
+  ]
+}
